@@ -1,0 +1,4 @@
+#Fri Aug 02 13:26:13 EEST 2019
+base.0=C\:\\Users\\krom\\Documents\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex

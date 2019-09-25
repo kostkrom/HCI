@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categoriesNames">
+        <item>Home</item>
+        <item>Notification</item>
+        <item>Cigarette</item>
+        <item>Entertainment</item>
+        <item>FastFood</item>
+        <item>Food</item>
+        <item>Gas</item>
+        <item>Medical</item>
+        <item>Shopping</item>
+        <item>Sport</item>
+        <item>Telephone</item>
+        <item>Travel</item>
+        <item>Transportation</item>
+        <item>Wine</item>
+        <item>Custom</item>
+    </string-array>
+
+    <integer-array name="categoriesImages">
+        <item>@drawable/ic_home_black_24dp</item>
+        <item>@drawable/ic_notifications_black_24dp</item>
+        <item>@drawable/cigarette</item>
+        <item>@drawable/entertaiment</item>
+        <item>@drawable/fastfood</item>
+        <item>@drawable/food</item>
+        <item>@drawable/gas</item>
+        <item>@drawable/medical</item>
+        <item>@drawable/shoppings</item>
+        <item>@drawable/sport</item>
+        <item>@drawable/telephone</item>
+        <item>@drawable/travel</item>
+        <item>@drawable/transportation</item>
+        <item>@drawable/wine</item>
+        <item>@drawable/custom_add</item>
+    </integer-array>
+
+    <string-array name="incomeCategoriesNames">
+        <item>Salary</item>
+        <item>Sale</item>
+        <item>Investments</item>
+        <item>Refunds</item>
+        <item>Rental</item>
+        <item>Lottery</item>
+        <item>Custom</item>
+    </string-array>
+
+    <integer-array name="incomeCategoriesImages">
+        <item>@drawable/salary</item>
+        <item>@drawable/sale</item>
+        <item>@drawable/investments</item>
+        <item>@drawable/refunds</item>
+        <item>@drawable/rental</item>
+        <item>@drawable/lottery</item>
+        <item>@drawable/custom_add</item>
+    </integer-array>
+</resources>
